@@ -1,0 +1,148 @@
+.insta {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+.DM {
+  width: 60%;
+}
+.email {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+.linkedn {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+.git {
+  float: left;
+  width: 20%;
+  padding: 10px;
+}
+
+.logo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  padding: 10px;
+  background-color: rgb(193, 193, 193);
+  float: left;
+  box-shadow: 2px 2px 2px black;
+  min-height: 80px;
+  width: 65%;
+}
+.info {
+  text-align: center;
+}
+.footer {
+  padding: 10px;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.contacts {
+  color: white;
+  background-color: rgb(97, 94, 94);
+  padding: 20px;
+  height: 250px;
+}
+.figma {
+  /* margin-left: 10px; */
+  width: 20%;
+  float: left;
+}
+.icon {
+  width: 50%;
+  gap: 2px;
+}
+.react {
+  /* margin-left: px; */
+  width: 20%;
+  float: left;
+}
+.more-about {
+  padding: 20px;
+}
+.html {
+  width: 20%;
+  float: left;
+}
+.css {
+  width: 20%;
+  float: left;
+}
+.javascript {
+  /* margin-left: 10px; */
+  width: 20%;
+  float: left;
+}
+.skills-img {
+  /* width: 100%; */
+  object-fit: contain;
+}
+.skills {
+  padding: 20px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.555);
+}
+.a {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+.button:hover {
+  width: 130px;
+}
+.button {
+  transition: width 0.4s;
+  background-color: rgb(6, 5, 5);
+  padding: 10px;
+  width: 110px;
+  border: none;
+  border-radius: 10px;
+}
+.button-cont {
+  min-height: 80px;
+  padding: 10px;
+  background-color: rgb(193, 193, 193);
+  box-shadow: 2px 2px 2px black;
+  float: left;
+  width: 35%;
+}
+.img {
+  object-fit: contain;
+  width: 100%;
+  filter: brightness(20%);
+}
+.card-body {
+  background-color: rgb(193, 193, 193);
+  color: white;
+}
+.more {
+  padding: 10px;
+  color: red;
+  width: 70px;
+  border: none;
+  border-radius: 10px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.87);
+  transition: width 0.3s;
+}
+.more:hover {
+  background-color: black;
+  color: white;
+  width: 80px;
+}
+.overlay {
+  color: white;
+  font-weight: bold;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: absolute;
+  top: 15%;
+  left: 10%;
+  background-color: rgba(0, 0, 0, 0.162);
+  padding: 20px;
+  border-radius: 20px;
+}
